@@ -24,6 +24,7 @@ pub mod blocks;
 pub mod contract;
 pub mod errors;
 pub mod gas;
+pub mod logs;
 pub mod source_tree;
 mod transaction;
 pub mod utils;
